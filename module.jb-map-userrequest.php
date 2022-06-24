@@ -10,7 +10,7 @@
 
 SetupWebPage::AddModule(
 	__FILE__, // Path to the current file, all other file names are relative to the directory containing this file
-	'jb-map-userrequest/2.6.201022',
+	'jb-map-userrequest/2.7.220624',
 	array(
 		// Identification
 		//
